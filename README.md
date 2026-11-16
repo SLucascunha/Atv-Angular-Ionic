@@ -1,17 +1,12 @@
-# SINDADOS-BA - App Mobile (MVP Front-end)
+Projeto em Ionic + Angular com dados simulados.
 
-Protótipo em Ionic + Angular (standalone) com dados simulados.
-
-## Como rodar
-```
 npm install
 npm start
-```
+
 Abra http://localhost:4200
 
 Login de teste: `associado@sindados.org.br` / `123456`
 
-## Funcionalidades
 - RF01 Login simulado
 - RF02 Home com abas (Home, Notícias, ACTs/CCTs, Sair)
 - RF03 Lista de notícias
